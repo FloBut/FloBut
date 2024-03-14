@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**FloBut/FloBut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate backend developer from Romania 🔭 
 
-Here are some ideas to get you started:
+I’m currently working on a health app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Spring Boot, Java, MySQL
+
+👯 I’m looking to collaborate on backend development
+
+👨‍💻 All of my projects are available at https://github.com/FloBut
+
+💬 Ask me about Spring Boot
+
+📫 How to reach me fbutuc5.@gmail.com
+## Languages and Tools
+
+JAVA
+
+SPRING
+
+MYSQL
