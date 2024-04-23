@@ -2,7 +2,7 @@
 
 A passionate backend developer from Romania 🔭 
 
-I’m currently working on a health app
+I’m currently working on a cinema app
 
 🌱 I’m currently learning Spring Boot, Java, MySQL
 
